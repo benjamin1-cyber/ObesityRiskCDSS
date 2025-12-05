@@ -17,20 +17,6 @@ Obesity remains one of the most significant public health challenges worldwide, 
 
 This CDSS performs **multi-class classification** to predict patients’ obesity categories using demographic, lifestyle, and anthropometric data — offering clinicians an **interpretable, transparent, and data-driven decision-support tool**.
 
----
-
-## 🗂 Repository Contents
-
-| File/Folder | Description |
-|--------------|-------------|
-| `OBP_with_Autogluon.ipynb` | Full machine learning pipeline notebook |
-| `Progress_Report1_Group5.pdf` | Official project progress report |
-| `data/` | Dataset placeholder *(Kaggle dataset not included)* |
-| `models/` | Trained model files (optional) |
-| `streamlit_app/` | Prototype clinician-in-the-loop interface *(upcoming)* |
-| `README.md` | Project documentation |
-
----
 
 ## 🏥 Clinical Problem
 
@@ -180,8 +166,8 @@ A narrated walkthrough of the project and CDSS prototype is available below:
 
 | Team Member | Roles |
 |--------------|--------|
-| **Frederick Damptey** | Model design, data ingestion, model evaluation, report writing |
-| **Benjamin Odoom Asomaning** | Preprocessing, literature review,  clinician-in-the-loop architecture |
+| **Frederick Damptey** | Model design from data ingestion to audit Clinician-in-the-loop. |
+| **Benjamin Odoom Asomaning** | Data Ingestion and preprocessing, literature review, model evaluation and report writing. |
 
 ---
 
