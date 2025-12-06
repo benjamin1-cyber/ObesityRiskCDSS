@@ -142,7 +142,7 @@ This configuration mitigates **automation bias** and ensures **clinical accounta
 
 A narrated walkthrough of the project and CDSS prototype is available below:
 
-👉 Video Link: Add your YouTube, Google Drive, or GitHub video link here
+👉 Video Link: https://youtu.be/lHVb6tY_ybI?si=tTPhcDG36oRSLzIf 
 
 ---
 
